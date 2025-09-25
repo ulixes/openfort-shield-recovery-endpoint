@@ -1,0 +1,10 @@
+name = "openfort-shield-recovery-endpoint"
+main = "src/index.ts"
+compatibility_date = "2024-12-01"
+
+
+[vars]
+# Values are set in the Deploy UI / dashboard
+SHIELD_PUBLISHABLE_KEY = "83a74638-715f-4e53-9b4e-81e2d3c26e19"
+SHIELD_SECRET_KEY = "175aba98-d48c-4119-b5cd-02bfa5a1802e"
+SHIELD_ENCRYPTION_SHARE = "AnnfQ2NecCD+DZH6WfjJBHhhJV4m221C8Dtm97GWq8R1"
